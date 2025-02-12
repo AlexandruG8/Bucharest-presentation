@@ -3,7 +3,7 @@ A short Bucharest presentation website based on the New York presentation I have
 
 Implementation:
   
-  -This is built using only html for the structure and css for styling.
+  -This is built using only HTML for the structure and CSS for styling.
 
 Steps involved:
   
